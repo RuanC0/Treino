@@ -1,3 +1,7 @@
 BOM
 Bom não, mel!
+<<<<<<< Updated upstream
 :P
+=======
+Doce, Doce, Doce
+>>>>>>> Stashed changes
